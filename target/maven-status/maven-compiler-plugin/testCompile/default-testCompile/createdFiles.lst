@@ -1,0 +1,5 @@
+com\excellence\qa\testcases\DashboardPageTest.class
+com\excellence\qa\testcases\HolidayCalenderPageTest.class
+com\excellence\qa\testcases\MaterialRequestPageTest.class
+com\excellence\qa\testcases\LeaveApplicationPageTest.class
+com\excellence\qa\testcases\LoginPageTest.class
